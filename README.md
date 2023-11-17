@@ -4,5 +4,5 @@
 
 ## 목록
 
-- [BTS -Moon](moon/README.md)
+- [BTS - Moon](moon/README.md)
 - [AJR - The Maybe Man](the-maybe-man/README.md)
